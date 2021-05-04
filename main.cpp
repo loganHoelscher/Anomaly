@@ -1,10 +1,7 @@
 //
 //  main.cpp
-//  3D Modeling
-//
-//  Created by Logan Hoelscher on 10/14/19.
-//  Copyright © 2019 Logan Hoelscher. All rights reserved.
-//
+//  
+
 
 #include <iostream>
 #include <cmath>
